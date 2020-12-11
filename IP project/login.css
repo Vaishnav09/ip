@@ -1,0 +1,42 @@
+
+body{
+    background-image: url('images/travel-2650303_1920.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    font-size: large;
+}
+
+form {
+    border: 2px solid white;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: fit-content;
+    padding: 30px;
+    background-color: black;
+    margin-left: 400px;
+    margin: auto;
+    margin-top:150px;
+}
+input {
+    padding: 3px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    align-items: center;
+ }
+
+ h1{
+     text-align: center;
+     font-size: 40px;
+ }
+
+ div .b{
+     margin-left: 50px;
+     background-color: red;
+     color: white;
+ }
